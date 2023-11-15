@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Projetvhdl_bloc1\simulation\modelsim
+Edistributionautoproduit
+Z1 w1699200242
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dC:\Projetvhdl_bloc1\simulation\modelsim
+Z7 8C:/Projetvhdl_bloc1/DistributionAutoProduit.vhd
+Z8 FC:/Projetvhdl_bloc1/DistributionAutoProduit.vhd
+l0
+L6
+VUUTb>ZWmzMF?L7ASMQ`PR1
+Z9 OV;C;10.1d;51
+31
+Z10 !s108 1699201758.364000
+Z11 !s90 -reportprogress|300|-93|-work|work|C:/Projetvhdl_bloc1/DistributionAutoProduit.vhd|
+Z12 !s107 C:/Projetvhdl_bloc1/DistributionAutoProduit.vhd|
+Z13 o-93 -work work -O0
+Z14 tExplicit 1
+!s100 gJf_4<8L3[lhOR7o=2NLB2
+!i10b 1
+Aarch
+R2
+R3
+R4
+R5
+DEx4 work 23 distributionautoproduit 0 22 UUTb>ZWmzMF?L7ASMQ`PR1
+l22
+L21
+VnkDFKUYm__NA;;NODY9Q:1
+R9
+31
+R10
+R11
+R12
+R13
+R14
+!s100 XbM9fLm[U:5G@eaZ?kgbo1
+!i10b 1
+Etest
+Z15 w1698082948
+R4
+R5
+R6
+Z16 8C:/Projetvhdl_bloc1/testbench.vhd
+Z17 FC:/Projetvhdl_bloc1/testbench.vhd
+l0
+L4
+Vh13m6KST]0:Kel6M<53ln2
+!s100 FT[HGPQ2N4Fii]gd`=ZLh0
+R9
+31
+!i10b 1
+Z18 !s108 1699201758.485000
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/Projetvhdl_bloc1/testbench.vhd|
+Z20 !s107 C:/Projetvhdl_bloc1/testbench.vhd|
+R13
+R14
+Aarch
+R4
+R5
+DEx4 work 4 test 0 22 h13m6KST]0:Kel6M<53ln2
+l30
+L7
+VRMjA@[fN<nC1JNgN?eai<1
+!s100 >Y][b6X9Z?^CjL>Z[[2k50
+R9
+31
+!i10b 1
+R18
+R19
+R20
+R13
+R14

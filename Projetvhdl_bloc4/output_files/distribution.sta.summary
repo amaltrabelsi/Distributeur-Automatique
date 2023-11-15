@@ -1,0 +1,101 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -1.841
+TNS   : -9.591
+
+Type  : Slow 1200mV 85C Model Setup 'distribuer'
+Slack : -0.307
+TNS   : -0.307
+
+Type  : Slow 1200mV 85C Model Hold 'distribuer'
+Slack : -0.313
+TNS   : -0.507
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 2.004
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'distribuer'
+Slack : 0.176
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'distribuer'
+Slack : -0.404
+TNS   : -1.263
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -9.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'distribuer'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -1.571
+TNS   : -8.160
+
+Type  : Slow 1200mV 0C Model Setup 'distribuer'
+Slack : -0.253
+TNS   : -0.253
+
+Type  : Slow 1200mV 0C Model Hold 'distribuer'
+Slack : -0.198
+TNS   : -0.298
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 1.828
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'distribuer'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'distribuer'
+Slack : -0.264
+TNS   : -0.709
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -9.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'distribuer'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -1.126
+TNS   : -6.049
+
+Type  : Fast 1200mV 0C Model Setup 'distribuer'
+Slack : 0.332
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'distribuer'
+Slack : -0.306
+TNS   : -0.540
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 1.622
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'distribuer'
+Slack : 0.618
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'distribuer'
+Slack : -0.377
+TNS   : -1.328
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -9.130
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'distribuer'
+Slack : -3.000
+TNS   : -3.000
+
+------------------------------------------------------------

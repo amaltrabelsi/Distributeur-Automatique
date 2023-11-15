@@ -1,0 +1,24 @@
+|distribution
+clk => etat_present~1.DATAIN
+rst => etat_present~3.DATAIN
+p1 => etat_futur.terminer.IN1
+p1 => etat_futur.DP4.OUTPUTSELECT
+p1 => etat_futur.DP3.OUTPUTSELECT
+p1 => etat_futur.DP2.OUTPUTSELECT
+p1 => etat_futur.DP1_191.DATAIN
+p2 => etat_futur.terminer.IN1
+p2 => etat_futur.DP4.OUTPUTSELECT
+p2 => etat_futur.DP3.OUTPUTSELECT
+p2 => etat_futur.DP2.DATAA
+p3 => etat_futur.terminer.IN0
+p3 => etat_futur.DP3.DATAA
+p3 => etat_futur.DP4.DATAA
+p4 => etat_futur.terminer.IN1
+distribuer => etat_futur.terminer.IN1
+d1 <= d1.DB_MAX_OUTPUT_PORT_TYPE
+d2 <= d2.DB_MAX_OUTPUT_PORT_TYPE
+d3 <= d3.DB_MAX_OUTPUT_PORT_TYPE
+d4 <= d4.DB_MAX_OUTPUT_PORT_TYPE
+fin <= fin.DB_MAX_OUTPUT_PORT_TYPE
+
+

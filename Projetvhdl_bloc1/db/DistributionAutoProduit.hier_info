@@ -1,0 +1,36 @@
+|DistributionAutoProduit
+clk => request~reg0.CLK
+clk => p4~reg0.CLK
+clk => p3~reg0.CLK
+clk => p2~reg0.CLK
+clk => p1~reg0.CLK
+rst => request~reg0.ACLR
+rst => p4~reg0.ACLR
+rst => p3~reg0.ACLR
+rst => p2~reg0.ACLR
+rst => p1~reg0.ACLR
+clavier[0] => Mux0.IN19
+clavier[0] => Mux1.IN19
+clavier[0] => Mux2.IN19
+clavier[0] => Mux3.IN19
+clavier[1] => Mux0.IN18
+clavier[1] => Mux1.IN18
+clavier[1] => Mux2.IN18
+clavier[1] => Mux3.IN18
+clavier[2] => Mux0.IN17
+clavier[2] => Mux1.IN17
+clavier[2] => Mux2.IN17
+clavier[2] => Mux3.IN17
+clavier[3] => Mux0.IN16
+clavier[3] => Mux1.IN16
+clavier[3] => Mux2.IN16
+clavier[3] => Mux3.IN16
+valide => process_0.IN0
+annuler => process_0.IN1
+request <= request~reg0.DB_MAX_OUTPUT_PORT_TYPE
+p1 <= p1~reg0.DB_MAX_OUTPUT_PORT_TYPE
+p2 <= p2~reg0.DB_MAX_OUTPUT_PORT_TYPE
+p3 <= p3~reg0.DB_MAX_OUTPUT_PORT_TYPE
+p4 <= p4~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
