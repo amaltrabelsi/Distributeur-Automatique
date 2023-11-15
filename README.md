@@ -18,5 +18,5 @@ Tous les blocs sont interconnectés et reliés de manière asynchrone à la broc
 Ce fichier README fournit un aperçu succinct du projet, mettant en lumière les objectifs, les composants clés du système, et l'architecture interne.
 Pour des détails techniques spécifiques sur chaque bloc VHDL et les aspects de mise en œuvre, veuillez vous référer à la documentation détaillée du projet.
 
+![structure pj](https://github.com/amaltrabelsi/Distributeur-Automatique/assets/98402175/b79bc551-d130-4a8a-8734-253d0103a831)
 
-https://github.com/amaltrabelsi/Distributeur-Automatique/issues/1#issue-1994990007
