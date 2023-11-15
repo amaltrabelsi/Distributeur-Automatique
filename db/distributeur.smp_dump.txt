@@ -1,0 +1,9 @@
+
+State Machine - |distributeur|distribution:bloc4|etat_present
+Name etat_present.terminer etat_present.DP4 etat_present.DP3 etat_present.DP2 etat_present.DP1 etat_present.debut 
+etat_present.debut 0 0 0 0 0 0 
+etat_present.DP1 0 0 0 0 1 1 
+etat_present.DP2 0 0 0 1 0 1 
+etat_present.DP3 0 0 1 0 0 1 
+etat_present.DP4 0 1 0 0 0 1 
+etat_present.terminer 1 0 0 0 0 1 
